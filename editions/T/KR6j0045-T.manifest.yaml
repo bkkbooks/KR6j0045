@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6j0045/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0045/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經金剛界大道場毘盧遮那如來自受用身內證智眷屬法身異名佛最上乘祕密三摩地禮懺文
+  identifiers:
+    krp: KR6j0045
+    cbeta: T18n0878
+    cbeta_old_id: T18n0878
+    authorityid: CA0001657
+    json_key: T0878
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0878.xml
+    old_id: T18n0878
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0045_000-T.yaml, hash: 'sha256:3ff868226374a1a16c012b86cee1d2bc02abffff79e237afb3726786ef495c12'}
+  - {seq: 1, filename: KR6j0045_001-T.yaml, hash: 'sha256:ce8ab96eafb57ac8ecb8992a3020feffee7a52fac6866937b03d2bb25c33f842'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0045_000-T.markers.yaml, hash: 'sha256:561ab95c415742358017301e15ac0690430dd3f77628cff679a2b5fc3860966c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0045_001-T.markers.yaml, hash: 'sha256:d1895774943bf2e27cfe29cf9600118298c20ca6320c3dc0d584f980532f75e9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0045_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1560
+  label: '金剛頂經金剛界大道場毘盧
+
+    遮那如來自受用身內證智眷屬
+
+    法身異名佛最上乘祕密三摩地
+
+    禮懺文'
+  type: juan
+  level: 1
+hash: sha256:fbe9494ec5bad98e06073c481efaa6c14c03d6d0aedbe062f01a649ffe1a4f81

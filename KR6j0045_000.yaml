@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0045/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經金剛界大道場毘盧遮那如來自受用身內證智眷屬法身異名佛最上乘祕密三摩地禮懺文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0878.xml
+    old_id: T18n0878
+hash: sha256:3ff868226374a1a16c012b86cee1d2bc02abffff79e237afb3726786ef495c12
