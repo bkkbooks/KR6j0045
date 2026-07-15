@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0045/v1
 canonical_location: https://kanripo.org/bkk/KR6j0045/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂經金剛界大道場毘盧遮那如來自受用身內證智眷屬法身異名佛最上乘祕密三摩地禮懺文
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0045_000.yaml, hash: 'sha256:3ff868226374a1a16c012b86cee1d2bc02abffff79e237afb3726786ef495c12'}
-  - {seq: 1, filename: KR6j0045_001.yaml, hash: 'sha256:ce8ab96eafb57ac8ecb8992a3020feffee7a52fac6866937b03d2bb25c33f842'}
+  - {seq: 1, filename: KR6j0045_001.yaml, hash: 'sha256:56f474444972585b0c104813de81ed1565bfac373bc256510a851e162c299a1b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0045_000.markers.yaml, hash: 'sha256:06680aad355f10a55f73eca9ad7766e3797d0081b8f193e6ab400dd1efa32bbf'}
-  - {seq: 1, role: markers, filename: assets/KR6j0045_001.markers.yaml, hash: 'sha256:46fec01fca887bf882ec07c10a2f0fe4f22771907d0289fe5157babe81d99608'}
+  - {seq: 1, role: markers, filename: assets/KR6j0045_001.markers.yaml, hash: 'sha256:77237c44ee7c03c13b145fd44da7caa390e26353b9abeb6b4626a9553399038a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
     禮懺文'
   type: juan
   level: 1
-hash: sha256:5ecae562753d69b0e2225525f4299a73bd7a1b51ca092d68f7fc0884503f3004
+hash: sha256:6a8ca4a4936b58cd98fad6d3a7039ddfa51cbda874aa657acacc6b95d6f21f8d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
